@@ -13,3 +13,5 @@ How to test it:
 - create new Codespace, give it 4 cores to make it faster
 - use Shift-WIN/CMD-P and "View creation log" to check the test progress
 - wait until OLLAMA.md file appears (it should in ~3 minutes)
+
+And it works perfectly fine.
